@@ -1,0 +1,4 @@
+Ideen für Aufgaben: Quizze (Multiple Choice, Eingabe für Rechenaufgaben), Wimmelbilder (mögl. mit Mose Code), Logikrätsel (auch mal Counter Intuitive Sachen, Monty Hall Problem)
+verschlüsselte Nachrichten, Puzzle, Musik erraten
+
+Weitere Idden: Progress Bar
