@@ -20,6 +20,8 @@ h5 {
 	width: 80px;
 }
 
-.penis {
-
+input, my-form{
+	width: 80%;
+    background-color: bisque;
+    color: #333333;
 }
